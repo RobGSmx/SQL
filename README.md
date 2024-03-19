@@ -1,11 +1,22 @@
-# <u><font color="red">SQL Exercises</font></u>
-	
+<!---   
+
+-----------NORMAL TITLE:
+
+# <u>SQL Exercises</font></u> 
+
+----------LATEX TITLE IN RED:
+
 # $${\color{red}<u><font color="red">SQL\ Exercises</font></u>}$$
 
 
+----------ORIGINAL SVG IMAGE:
 
+![Model](https://github.com/RobGSmx/SQL/blob/main/TEST.svg)
 
+-->
 
+<!--- Title reszed: -->
+<img height="60px" src="https://github.com/RobGSmx/SQL/blob/main/TEST.svg" alt=""/>
 
 
 Welcome to my SQL exercises repository! This repository contains a collection of SQL exercises covering various topics such as Common Table Expressions (CTEs), subqueries, joins, basic queries, and more.
@@ -19,8 +30,7 @@ This repository serves as a record of the SQL exercises I've completed. Each exe
 - `Joins`: Exercises focusing on different types of SQL joins.
 - `Basic Queries`: Simple SQL queries to practice fundamental concepts.
 
-Feel free to explore the folders and dive into the exercises to enhance your SQL skills!
+Feel free to explore the folders and dive into the exercises!
 
-## ➡Getting Started
+Roberto GS
 
-To get started with the exercises, simply navigate to the respective folders based on the topic you're interested in. Each exercise is provided as a `.sql` file, which you can open and run in your preferred SQL environment.
